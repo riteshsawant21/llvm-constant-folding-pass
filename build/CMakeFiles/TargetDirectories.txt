@@ -1,0 +1,7 @@
+/home/ritesh/llvm-opt-project/build/CMakeFiles/intrinsics_gen.dir
+/home/ritesh/llvm-opt-project/build/CMakeFiles/omp_gen.dir
+/home/ritesh/llvm-opt-project/build/CMakeFiles/acc_gen.dir
+/home/ritesh/llvm-opt-project/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/home/ritesh/llvm-opt-project/build/CMakeFiles/MyFirstPass.dir
+/home/ritesh/llvm-opt-project/build/CMakeFiles/edit_cache.dir
+/home/ritesh/llvm-opt-project/build/CMakeFiles/rebuild_cache.dir
