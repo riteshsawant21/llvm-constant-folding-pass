@@ -3,6 +3,20 @@
 This project demonstrates a custom **LLVM optimization pass** that performs **constant folding** on LLVM Intermediate Representation (IR). It simplifies expressions like `add i32 10, 12` into a single constant `22`, reducing runtime computation and improving performance.
 
 ---
+## A Quick Demo of the output
+---
+
+### 📸 Execution Output
+
+![Execution Comparison between originals and optimised code](assets/execution_output.png)
+
+---
+
+### 📊 Dashboard Output
+
+![Visual Report of the Output](assets/visual_report.png)
+
+## Details of the Project:
 
 ## 📁 Project Structure
 
