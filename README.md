@@ -8,13 +8,13 @@ This project demonstrates a custom **LLVM optimization pass** that performs **co
 
 ### 📸 Execution Output
 
-![Execution Comparison between originals and optimised code](assets/execution_output.png)
+![Execution Comparison between originals and optimised code](assets/execution_output.PNG)
 
 ---
 
 ### 📊 Dashboard Output
 
-![Visual Report of the Output](assets/visual_report.png)
+![Visual Report of the Output](assets/visual_report.PNG)
 
 ## Details of the Project:
 
