@@ -105,14 +105,12 @@ This project can be a stepping stone to more complex LLVM transformations or com
 - `streamlit`, `pandas` (install via `pip install streamlit pandas`)
 
 ---
-
 ## 📬 Author
 
 **Ritesh Sawant**  
-B.Tech | Embedded Systems & Compilers Enthusiast  
-[GitHub](https://github.com/riteshsawant21) • [LinkedIn](https://linkedin.com/in/riteshsawant21)
+B.Tech | Electronics & Computer Science | 2026 Graduating
+Embedded Systems Enthusiast  
 
----
-
-> 🎯 *“Compilers don't just compile code, they compile your thinking.”*
+[![GitHub](https://img.shields.io/badge/GitHub-riteshsawant21-181717?style=for-the-badge&logo=github)](https://github.com/riteshsawant21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ritesh--sawant21-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ritesh-sawant21)
 
